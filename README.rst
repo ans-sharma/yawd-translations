@@ -42,4 +42,6 @@ for information on how to install the demo and use yawd-translations.
 .. image:: https://d2weczhvl823v0.cloudfront.net/yawd/yawd-translations/trend.png
    :alt: Bitdeli badge
    :target: https://bitdeli.com/free
+   
+[This is a open source Document]
 
